@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ![](https://komarev.com/ghpvc/?username=PratikshaSharma4&color=blueviolet&style=plastic&label=PROFILE+VIEWS)
 
-An enthusiast in the field of Machine Learning and Data Science from Gainesville, Florida, USA.
+An enthusiast in the field of Machine Learning and Data Science.
 
 - 🌱 I’m currently learning and working on Machine Learning/ Deep Learning projects.
 
